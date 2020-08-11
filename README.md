@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on MERN Stack Projects.
+🔭 I’m currently working with MERN Stack Technologies.
 
-🌱 I’m currently learning Mathematics behind Machine Learning and AI
+🌱 I’m currently learning Mathematics behind Machine Learning and AI.
 
+😄 Pronouns: Unrelenting
 
 
 <!--
