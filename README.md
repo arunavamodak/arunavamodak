@@ -10,11 +10,6 @@ A Software Engineer, in love with building things. Passionate especially about b
 * ✉️  You can contact me at [arunavamodak2@gmail.com](mailto:arunavamodak2@gmail.com)
 * 🤝  I'm open to collaborating on Web3 Projects
 
-## 1. GitHub Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=arunavamodak&show_icons=true)
-
-
 ### Skills
 
 <p align="left">
