@@ -2,7 +2,7 @@
 
 **Product-Focused Full-Stack Engineer | Indie Hacker | AI Builder**
 
-I'm a full-stack engineer with over 4 years of experience, currently leading frontend efforts at [**Finallayer**](https://finallayer.ai). My passion lies in crafting AI-driven tools that enhance user experience—merging clean, scalable code with intuitive, thoughtful design.
+I'm a full-stack engineer with over 4 years of experience, currently leading frontend efforts at [**Finallayer**](https://finallayer.com). My passion lies in crafting AI-driven tools that enhance user experience—merging clean, scalable code with intuitive, thoughtful design.
 
 ### 🚀 What I Do
 
