@@ -2,7 +2,7 @@
 
 **Product-Focused Full-Stack Engineer | Indie Hacker | AI Builder**
 
-I'm a full-stack engineer with over 4 years of experience, currently leading frontend efforts at **Finallayer**. My passion lies in crafting AI-driven tools that enhance user experience—merging clean, scalable code with intuitive, thoughtful design.
+I'm a full-stack engineer with over 4 years of experience, currently leading frontend efforts at [**Finallayer**](https://finallayer.ai). My passion lies in crafting AI-driven tools that enhance user experience—merging clean, scalable code with intuitive, thoughtful design.
 
 ### 🚀 What I Do
 
@@ -29,36 +29,4 @@ I'm a full-stack engineer with over 4 years of experience, currently leading fro
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
----
-
-### 🌍 Based in: India  
-📫 Reach me at: [arunavamodak2@gmail.com](mailto:arunavamodak2@gmail.com)  
-🤝 Open to: AI tools, indie products, and meaningful collaborations  
-
----
-
-### 📡 Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/arunava-modak-0007" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/arunavamodak" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://twitter.com/arunava_modak" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/arunavamodak" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-<a href="https://medium.com/@arunavamodak" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/_sixpaths_sage/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/arunavamodak">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunavamodak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
----
-
-Thanks for stopping by! Let's build something impactful together 🚀
+<a href="https://www.python.org/" target="_blank"><img src="https://_
